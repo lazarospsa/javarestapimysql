@@ -1,6 +1,8 @@
 # javarestapimysql
 An example of java crud / rest api with hibernate, MySQL, springboot, lombok.
 
+Run on Server -> Apache Tomcat 9
+
 Endpoints:
 
 Get (/user/users)
